@@ -11,4 +11,4 @@ By default vita, shark and bayonet skins are swapped with love, kiss and butterf
 1. Download the source code zip
 2. Extract it on your desktop
 3. A tutorial to install the extension https://www.youtube.com/watch?v=dhaGRJvJAII
-
+4. Everytime you change some skins you have to restart your browser for it to be in effect.
