@@ -1,7 +1,7 @@
 
 # Resource swapper extension for kirka.io
 
-Just download the source code and then manually install it manually 
+Just download the source code and then manually install it.
 
 By default vita, shark and bayonet skins are swapped with love, kiss and butterflies as an example you can swap them to whatever skins you like.
 
